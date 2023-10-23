@@ -61,4 +61,19 @@ const iveWonYoung2 = `아이브 '" ////            //백틱을 쓰면 이렇게 
 console.log(iveWonYoung2);
 
 const groupName = '아이브';
-conb
+
+console.log("------------------------------------------------------");
+
+/**
+ * Map
+ * 키:벨류 의 쌍으로 이루어져있다. 
+ * key : value
+ */
+
+const dictionary = {
+    red : '빨간색',
+    orange : '주황색',
+    blue : '파랑색', 
+};
+
+console.log(dictionary);
